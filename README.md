@@ -1,3 +1,3 @@
 # Akil
 
-![Certificate_AKIL](https://user-images.githubusercontent.com/81981737/147587573-1e4540e9-2486-471d-ab45-eaa0233318e3.jpg)
+![akil](https://user-images.githubusercontent.com/121312707/229454384-31445dd5-f4a3-4d2c-9930-a2a709a8c6d6.png)
